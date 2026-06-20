@@ -1,0 +1,510 @@
+[
+  {
+    "id": 1,
+    "name": "Spaghetti Carbonara",
+    "cuisine": "Italian",
+    "country": "Italy",
+    "category": "Pasta",
+    "description": "Classic Italian pasta dish with eggs, cheese, pancetta, and black pepper",
+    "servings": 4,
+    "prepTime": 10,
+    "cookTime": 20,
+    "totalTime": 30,
+    "difficulty": "Medium",
+    "ingredients": [
+      {
+        "item": "Spaghetti",
+        "amount": 400,
+        "unit": "g"
+      },
+      {
+        "item": "Eggs",
+        "amount": 4,
+        "unit": "whole"
+      },
+      {
+        "item": "Pancetta",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "item": "Parmesan Cheese",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "item": "Black Pepper",
+        "amount": 1,
+        "unit": "tsp"
+      },
+      {
+        "item": "Salt",
+        "amount": 1,
+        "unit": "tsp"
+      }
+    ],
+    "instructions": [
+      "Bring a large pot of salted water to boil and cook spaghetti until al dente",
+      "While pasta cooks, cut pancetta into small pieces and fry until crispy",
+      "In a bowl, whisk together eggs and grated Parmesan cheese",
+      "Drain pasta, reserving 1 cup of pasta water",
+      "Add hot pasta to pancetta pan off heat",
+      "Pour egg mixture over pasta and toss quickly, adding pasta water as needed",
+      "Season with black pepper and serve immediately"
+    ],
+    "tags": ["pasta", "italian", "quick", "dinner"],
+    "image": "https://via.placeholder.com/400x300?text=Spaghetti+Carbonara"
+  },
+  {
+    "id": 2,
+    "name": "Pad Thai",
+    "cuisine": "Thai",
+    "country": "Thailand",
+    "category": "Noodles",
+    "description": "Stir-fried rice noodles with shrimp, tofu, vegetables, and peanuts",
+    "servings": 2,
+    "prepTime": 15,
+    "cookTime": 15,
+    "totalTime": 30,
+    "difficulty": "Medium",
+    "ingredients": [
+      {
+        "item": "Rice Noodles",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "item": "Shrimp",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "item": "Tofu",
+        "amount": 150,
+        "unit": "g"
+      },
+      {
+        "item": "Tamarind Paste",
+        "amount": 3,
+        "unit": "tbsp"
+      },
+      {
+        "item": "Fish Sauce",
+        "amount": 2,
+        "unit": "tbsp"
+      },
+      {
+        "item": "Garlic",
+        "amount": 3,
+        "unit": "cloves"
+      },
+      {
+        "item": "Peanuts",
+        "amount": 50,
+        "unit": "g"
+      },
+      {
+        "item": "Green Onions",
+        "amount": 2,
+        "unit": "stalks"
+      }
+    ],
+    "instructions": [
+      "Soak rice noodles in warm water for 30 minutes until softened",
+      "Heat oil in a wok or large pan over high heat",
+      "Add minced garlic and stir-fry for 30 seconds",
+      "Add shrimp and tofu, cook until shrimp turns pink",
+      "Add drained noodles and stir-fry for 2 minutes",
+      "Add tamarind paste and fish sauce, mix well",
+      "Toss in green onions and crushed peanuts",
+      "Serve hot with extra peanuts and lime wedges"
+    ],
+    "tags": ["thai", "noodles", "seafood", "asian", "vegetarian-option"],
+    "image": "https://via.placeholder.com/400x300?text=Pad+Thai"
+  },
+  {
+    "id": 3,
+    "name": "Chicken Tikka Masala",
+    "cuisine": "Indian",
+    "country": "India",
+    "category": "Curry",
+    "description": "Tender chicken in a creamy tomato-based curry sauce with aromatic spices",
+    "servings": 4,
+    "prepTime": 30,
+    "cookTime": 40,
+    "totalTime": 70,
+    "difficulty": "Medium",
+    "ingredients": [
+      {
+        "item": "Chicken Breast",
+        "amount": 600,
+        "unit": "g"
+      },
+      {
+        "item": "Yogurt",
+        "amount": 150,
+        "unit": "ml"
+      },
+      {
+        "item": "Ginger",
+        "amount": 1,
+        "unit": "tbsp"
+      },
+      {
+        "item": "Garlic",
+        "amount": 4,
+        "unit": "cloves"
+      },
+      {
+        "item": "Garam Masala",
+        "amount": 2,
+        "unit": "tsp"
+      },
+      {
+        "item": "Turmeric",
+        "amount": 1,
+        "unit": "tsp"
+      },
+      {
+        "item": "Cumin",
+        "amount": 1,
+        "unit": "tsp"
+      },
+      {
+        "item": "Tomato Paste",
+        "amount": 3,
+        "unit": "tbsp"
+      },
+      {
+        "item": "Heavy Cream",
+        "amount": 200,
+        "unit": "ml"
+      }
+    ],
+    "instructions": [
+      "Marinate chicken in yogurt, ginger, garlic, and spices for at least 30 minutes",
+      "Heat oil in a pan and cook marinated chicken until done, set aside",
+      "In the same pan, add tomato paste and cook for 2 minutes",
+      "Add garam masala, turmeric, and cumin",
+      "Stir in heavy cream and bring to simmer",
+      "Return chicken to pan and simmer for 10 minutes",
+      "Adjust seasoning and serve with rice or naan bread"
+    ],
+    "tags": ["indian", "curry", "chicken", "creamy", "spicy"],
+    "image": "https://via.placeholder.com/400x300?text=Tikka+Masala"
+  },
+  {
+    "id": 4,
+    "name": "Tacos al Pastor",
+    "cuisine": "Mexican",
+    "country": "Mexico",
+    "category": "Main Course",
+    "description": "Marinated pork tacos with pineapple, cilantro, and onions",
+    "servings": 4,
+    "prepTime": 20,
+    "cookTime": 30,
+    "totalTime": 50,
+    "difficulty": "Medium",
+    "ingredients": [
+      {
+        "item": "Pork Shoulder",
+        "amount": 800,
+        "unit": "g"
+      },
+      {
+        "item": "Ancho Chiles",
+        "amount": 3,
+        "unit": "whole"
+      },
+      {
+        "item": "Guajillo Chiles",
+        "amount": 2,
+        "unit": "whole"
+      },
+      {
+        "item": "Pineapple",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "item": "Cilantro",
+        "amount": 50,
+        "unit": "g"
+      },
+      {
+        "item": "Onion",
+        "amount": 1,
+        "unit": "whole"
+      },
+      {
+        "item": "Corn Tortillas",
+        "amount": 12,
+        "unit": "whole"
+      }
+    ],
+    "instructions": [
+      "Soak dried chiles in hot water for 10 minutes to soften",
+      "Blend softened chiles with vinegar, spices, and garlic to make marinade",
+      "Cut pork into thin slices and marinate for at least 2 hours",
+      "Cook marinated pork in a skillet or grill until caramelized",
+      "Heat pineapple chunks in a separate pan",
+      "Warm tortillas and fill with pork and pineapple",
+      "Top with fresh cilantro and diced onion",
+      "Serve with lime wedges"
+    ],
+    "tags": ["mexican", "pork", "tacos", "grilled", "traditional"],
+    "image": "https://via.placeholder.com/400x300?text=Tacos+al+Pastor"
+  },
+  {
+    "id": 5,
+    "name": "Bouillabaisse",
+    "cuisine": "French",
+    "country": "France",
+    "category": "Seafood Stew",
+    "description": "Traditional French seafood stew from Provence with saffron and garlic",
+    "servings": 4,
+    "prepTime": 30,
+    "cookTime": 45,
+    "totalTime": 75,
+    "difficulty": "Hard",
+    "ingredients": [
+      {
+        "item": "Mixed Fish",
+        "amount": 800,
+        "unit": "g"
+      },
+      {
+        "item": "Shrimp",
+        "amount": 300,
+        "unit": "g"
+      },
+      {
+        "item": "Mussels",
+        "amount": 500,
+        "unit": "g"
+      },
+      {
+        "item": "Saffron",
+        "amount": 1,
+        "unit": "pinch"
+      },
+      {
+        "item": "Garlic",
+        "amount": 6,
+        "unit": "cloves"
+      },
+      {
+        "item": "Fennel",
+        "amount": 1,
+        "unit": "bulb"
+      },
+      {
+        "item": "Tomatoes",
+        "amount": 400,
+        "unit": "g"
+      },
+      {
+        "item": "White Wine",
+        "amount": 250,
+        "unit": "ml"
+      }
+    ],
+    "instructions": [
+      "Heat olive oil and sauté garlic and fennel until softened",
+      "Add tomatoes and white wine, simmer for 10 minutes",
+      "Add saffron and fish stock, bring to boil",
+      "Add firm fish pieces and simmer for 5 minutes",
+      "Add shrimp and mussels, cook until they open",
+      "Discard any unopened mussels",
+      "Serve in bowls with crusty bread and rouille sauce"
+    ],
+    "tags": ["french", "seafood", "stew", "provencal", "special-occasion"],
+    "image": "https://via.placeholder.com/400x300?text=Bouillabaisse"
+  },
+  {
+    "id": 6,
+    "name": "Bibimbap",
+    "cuisine": "Korean",
+    "country": "South Korea",
+    "category": "Rice Bowl",
+    "description": "Mixed rice bowl with vegetables, egg, and gochujang sauce",
+    "servings": 2,
+    "prepTime": 20,
+    "cookTime": 20,
+    "totalTime": 40,
+    "difficulty": "Medium",
+    "ingredients": [
+      {
+        "item": "Cooked Rice",
+        "amount": 2,
+        "unit": "cups"
+      },
+      {
+        "item": "Beef",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "item": "Spinach",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "item": "Carrots",
+        "amount": 1,
+        "unit": "whole"
+      },
+      {
+        "item": "Zucchini",
+        "amount": 1,
+        "unit": "whole"
+      },
+      {
+        "item": "Eggs",
+        "amount": 2,
+        "unit": "whole"
+      },
+      {
+        "item": "Gochujang",
+        "amount": 3,
+        "unit": "tbsp"
+      },
+      {
+        "item": "Sesame Oil",
+        "amount": 2,
+        "unit": "tbsp"
+      }
+    ],
+    "instructions": [
+      "Cook beef with soy sauce and garlic until done, set aside",
+      "Blanch spinach and season with sesame oil and garlic",
+      "Julienne and sauté carrots and zucchini separately",
+      "Fry eggs to desired doneness",
+      "Divide cooked rice into serving bowls",
+      "Arrange beef and vegetables on top of rice",
+      "Top with fried egg and gochujang sauce",
+      "Mix everything together and enjoy"
+    ],
+    "tags": ["korean", "rice", "vegetables", "beef", "quick"],
+    "image": "https://via.placeholder.com/400x300?text=Bibimbap"
+  },
+  {
+    "id": 7,
+    "name": "Chocolate Cake",
+    "cuisine": "American",
+    "country": "United States",
+    "category": "Dessert",
+    "description": "Rich and moist chocolate cake with chocolate frosting",
+    "servings": 8,
+    "prepTime": 15,
+    "cookTime": 35,
+    "totalTime": 50,
+    "difficulty": "Easy",
+    "ingredients": [
+      {
+        "item": "Flour",
+        "amount": 2,
+        "unit": "cups"
+      },
+      {
+        "item": "Cocoa Powder",
+        "amount": 0.75,
+        "unit": "cups"
+      },
+      {
+        "item": "Sugar",
+        "amount": 2,
+        "unit": "cups"
+      },
+      {
+        "item": "Eggs",
+        "amount": 2,
+        "unit": "whole"
+      },
+      {
+        "item": "Butter",
+        "amount": 150,
+        "unit": "g"
+      },
+      {
+        "item": "Milk",
+        "amount": 1,
+        "unit": "cup"
+      },
+      {
+        "item": "Vanilla Extract",
+        "amount": 2,
+        "unit": "tsp"
+      }
+    ],
+    "instructions": [
+      "Preheat oven to 350°F (175°C)",
+      "Mix flour, cocoa powder, sugar, and baking powder in a bowl",
+      "In another bowl, beat eggs and melted butter together",
+      "Combine wet and dry ingredients, add milk and vanilla",
+      "Pour into greased cake pans",
+      "Bake for 30-35 minutes until a toothpick comes out clean",
+      "Cool completely before frosting",
+      "Frost with chocolate frosting and serve"
+    ],
+    "tags": ["dessert", "chocolate", "american", "baking", "classic"],
+    "image": "https://via.placeholder.com/400x300?text=Chocolate+Cake"
+  },
+  {
+    "id": 8,
+    "name": "Ceviche",
+    "cuisine": "Peruvian",
+    "country": "Peru",
+    "category": "Appetizer",
+    "description": "Fresh seafood cured in citrus juice with onions and cilantro",
+    "servings": 4,
+    "prepTime": 20,
+    "cookTime": 30,
+    "totalTime": 50,
+    "difficulty": "Easy",
+    "ingredients": [
+      {
+        "item": "White Fish",
+        "amount": 500,
+        "unit": "g"
+      },
+      {
+        "item": "Lime Juice",
+        "amount": 250,
+        "unit": "ml"
+      },
+      {
+        "item": "Red Onion",
+        "amount": 1,
+        "unit": "whole"
+      },
+      {
+        "item": "Cilantro",
+        "amount": 50,
+        "unit": "g"
+      },
+      {
+        "item": "Ají Peppers",
+        "amount": 2,
+        "unit": "whole"
+      },
+      {
+        "item": "Salt",
+        "amount": 1,
+        "unit": "tsp"
+      }
+    ],
+    "instructions": [
+      "Cut fish into small cubes",
+      "Place fish in a bowl and cover with lime juice",
+      "Let marinate in refrigerator for 20-30 minutes until fish turns opaque",
+      "Dice red onion finely",
+      "Chop cilantro and ají peppers",
+      "Drain excess lime juice from fish",
+      "Mix in onion, cilantro, and peppers",
+      "Season with salt and serve immediately with tortilla chips"
+    ],
+    "tags": ["peruvian", "seafood", "appetizer", "fresh", "light"],
+    "image": "https://via.placeholder.com/400x300?text=Ceviche"
+  }
+]
